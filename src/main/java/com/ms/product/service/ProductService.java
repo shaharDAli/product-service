@@ -13,6 +13,11 @@ import com.ms.product.repository.ProductRepository;
 
 @Service
 public class ProductService {
+	
+	/*
+	 * This is the product service 
+	 * 
+	 * */
 
     private final ProductRepository productRepo;
 
